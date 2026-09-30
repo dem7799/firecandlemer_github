@@ -14,7 +14,7 @@
 <br/>
 
 > 🎓 **Free Open-Source Project by Vibecode Mobile App Academy**  
-> This production codebase is provided free to kickstart your journey. However, cloning is only step zero — in our Academy, you learn how to turn this foundation into a **100% unique commercial application with proprietary features, guaranteed App Store approval, and direct curator mentorship**:  
+> This production codebase is provided free to kickstart your journey. However, cloning is only step zero — in our Academy, you learn how to turn this foundation into a **100% unique commercial application with proprietary features, smooth App Store approval, and direct curator mentorship**:  
 > 👉 **[Visit Vibecode Mobile App Academy](https://dimvibecode.vercel.app)** — Master mobile vibe coding, pass App Store review on the first try, and ship profitable apps.
 
 </div>
@@ -70,11 +70,11 @@ At **[Vibecode Mobile App Academy](https://dimvibecode.vercel.app)**, we teach y
 
 > ### 🎓 Почему обучение в Академии эффективнее простого скачивания шаблонов?
 > 
-> Данный репозиторий — это бесплатная стартовая база. Однако прямая выгрузка шаблонного кода в App Store гарантированно ведет к отклонению по **Guideline 4.3 (Spam / Design Copycats)**. В [Vibecode Mobile App Academy](https://dimvibecode.vercel.app) мы обучаем полному циклу создания независимых коммерческих приложений:
+> Данный репозиторий — это бесплатная стартовая база. Однако прямая выгрузка шаблонного кода в App Store обычно ведет к отклонению по **Guideline 4.3 (Spam / Design Copycats)**. В [Vibecode Mobile App Academy](https://dimvibecode.vercel.app) мы обучаем полному циклу создания независимых коммерческих приложений:
 >
 > 1. **Уникальный код по структуре и наполнению**:
 >    Вы учитесь управлять AI-агентами так, чтобы генерировать персонализированную архитектуру, уникальные структуры данных и собственный UI, делая проект на 100% самобытным для автоматических сканеров Apple.
-> 2. **Уникальная фича для гарантированного прохождения модерации App Store**:
+> 2. **Уникальная фича для уверенного прохождения модерации App Store**:
 >    Вы разрабатываете и встраиваете уникальный функционал (мультитрековые микшеры звуков, дыхательные практики, интерактивные виджеты, кастомные таймеры), который закрывает требования модерации (Guideline 4.2 / 4.3) и даёт реальную ценность пользователям.
 > 3. **Поддержка персонального куратора**:
 >    Куратор отвечает на любые возникающие вопросы, помогает решать сложные баги, проводит ревью кода перед отправкой и сопровождает вас на всех этапах App Store Review.
@@ -375,7 +375,7 @@ Before releasing the application under your own Apple Developer account, replace
 Transform this free starter project into your own profitable app business with **[Vibecode Mobile App Academy](https://dimvibecode.vercel.app)**:
 
 - 🧬 **100% Unique Codebase & Architecture**: Build distinct, original apps with AI vibe coding that avoid Guideline 4.3 clone flags.
-- 🛡️ **App Store Review Pass Guarantee**: Engineer unique differentiator features that satisfy Apple review guidelines on the first submission.
+- 🛡️ **Smooth App Store Review Process**: Engineer unique differentiator features that satisfy Apple review guidelines on the first submission.
 - 👨‍🏫 **Personal Curator & Mentor Support**: Direct access to expert mobile engineers who review your code and resolve any development or submission blockers.
 - 💰 **Production Monetization**: Master in-app purchases and subscriptions with RevenueCat and StoreKit 2.
 - 🚀 **10x Velocity**: Go from initial idea to live App Store release in days, not months.
