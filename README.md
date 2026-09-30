@@ -2,25 +2,26 @@
 
 # 🔥 Fireplace & Candle Light: Ambient 4K Screensaver
 
-### Production-Grade iOS Open-Source Application for Academy Students
+### Free Open-Source iOS Starter Project by Vibecode Mobile App Academy
 
 [![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg?style=for-the-badge&logo=swift)](https://swift.org)
 [![iOS](https://img.shields.io/badge/iOS-17.0+-blue.svg?style=for-the-badge&logo=apple)](https://developer.apple.com/ios/)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-purple.svg?style=for-the-badge&logo=swift)](https://developer.apple.com/xcode/swiftui/)
 [![RevenueCat](https://img.shields.io/badge/RevenueCat-In--App_Purchases-ff5454.svg?style=for-the-badge)](https://www.revenuecat.com/)
-[![License](https://img.shields.io/badge/Education-Vibecode_Academy-brightgreen.svg?style=for-the-badge)](https://dimvibecode.vercel.app)
+[![Vibecode Mobile App Academy](https://img.shields.io/badge/Vibecode-Mobile_App_Academy-blueviolet.svg?style=for-the-badge&logo=apple)](https://dimvibecode.vercel.app)
+[![Curator Support](https://img.shields.io/badge/Curator_Support-Included-success.svg?style=for-the-badge)](https://dimvibecode.vercel.app)
 
 <br/>
 
-> 🎓 **Free Educational Project by Vibecode Academy**  
-> Source code prepared and released exclusively for students of our academy:  
-> 👉 **[Visit Vibecode Academy](https://dimvibecode.vercel.app)** — learn how to build, monetize, and launch commercial mobile apps from scratch to the App Store!
+> 🎓 **Free Open-Source Project by Vibecode Mobile App Academy**  
+> This production codebase is provided free to kickstart your journey. However, cloning is only step zero — in our Academy, you learn how to turn this foundation into a **100% unique commercial application with proprietary features, guaranteed App Store approval, and direct curator mentorship**:  
+> 👉 **[Visit Vibecode Mobile App Academy](https://dimvibecode.vercel.app)** — Master mobile vibe coding, pass App Store review on the first try, and ship profitable apps.
 
 </div>
 
 ---
 
-## 📖 About The Project
+## 📖 About This Free Starter Project
 
 **firecandlemer** (*Fireplace & Candle Light: Ambient 4K Screensaver*) is a real-world, commercial-grade iOS application for iPhone and iPad in the **Health & Fitness / Utilities / Relaxation** category.
 
@@ -33,6 +34,52 @@ It transforms the device into an ambient nightlight, virtual fireplace, or medit
 - 📻 **White Noise for Deep Focus & Sleep** (8 scenes)
 
 This repository serves as a **production-ready educational foundation** demonstrating how to design a modern iOS app with paid subscriptions, offline media caching, hardware video looping, and marketing attribution.
+
+---
+
+## 🚀 Vibecode Mobile App Academy — The Learning Advantage
+
+While this repository provides a fully functional open-source base, **simply publishing copied templates to the App Store does not work**. Apple strictly rejects duplicate templates under **Guideline 4.3 (Spam / Design Copycats)**. 
+
+At **[Vibecode Mobile App Academy](https://dimvibecode.vercel.app)**, we teach you how to engineer and publish high-quality, commercially successful mobile applications with three decisive advantages:
+
+### 1. 🧬 Unique Code Structure & Content Generation
+- **No cookie-cutter cloning**: You master how to direct AI coding agents to refactor, restructure, and generate a **truly unique architectural codebase and content catalog**.
+- **Distinct binary footprint**: Custom data models, decoupled service boundaries, original UI design systems, and bespoke asset pipelines ensure that your application's Abstract Syntax Tree (AST) and structure are completely unique in the eyes of App Store automated checks.
+
+### 2. 🛡️ Unique Feature Engineering for Seamless App Store Review
+- **Passing moderation with confidence**: Apple requires apps to provide distinct utility and memorable user experiences.
+- **Bespoke differentiator features**: In the Academy, students learn to design and implement unique, proprietary features that elevate simple utility apps into high-value products:
+  - Custom ambient sound synthesizers & multi-track audio layering.
+  - Interactive smart sleep timers, breathwork relaxation modes, and haptic feedback.
+  - Native iOS Lock Screen & Home Screen Widgets, Siri Shortcuts, and Live Activities.
+- These unique features ensure your app effortlessly satisfies Apple Review Guidelines (avoiding 4.3 Spam and 4.2 Minimum Functionality rejections) and gets approved swiftly.
+
+### 3. 👨‍🏫 Personal Curator & Mentor Support
+- **Never get stuck**: Developing apps and dealing with Apple's ecosystem can be challenging. Students in the Academy have direct access to an **experienced curator and mentor** who:
+  - Answers all your technical questions and helps troubleshoot development blockers.
+  - Reviews your code, project structure, and architecture before submission.
+  - Guides you through Apple Developer accounts, certificates, RevenueCat setup, AppsFlyer, and OneSignal.
+  - Assists with App Store Connect metadata, App Review guidelines, and crafting responses to reviewer queries.
+
+### 4. ⚡ High-Velocity Mobile Vibe Coding
+- Learn modern agentic engineering workflows: write concise architectural specifications, direct AI tools to generate bulletproof Swift/SwiftUI code, and ship polished iOS & Android apps in days instead of months.
+
+<details>
+<summary><b>🇷🇺 Преимущества обучения в Vibecode Academy (для русскоязычных учеников)</b></summary>
+
+> ### 🎓 Почему обучение в Академии эффективнее простого скачивания шаблонов?
+> 
+> Данный репозиторий — это бесплатная стартовая база. Однако прямая выгрузка шаблонного кода в App Store гарантированно ведет к отклонению по **Guideline 4.3 (Spam / Design Copycats)**. В [Vibecode Mobile App Academy](https://dimvibecode.vercel.app) мы обучаем полному циклу создания независимых коммерческих приложений:
+>
+> 1. **Уникальный код по структуре и наполнению**:
+>    Вы учитесь управлять AI-агентами так, чтобы генерировать персонализированную архитектуру, уникальные структуры данных и собственный UI, делая проект на 100% самобытным для автоматических сканеров Apple.
+> 2. **Уникальная фича для гарантированного прохождения модерации App Store**:
+>    Вы разрабатываете и встраиваете уникальный функционал (мультитрековые микшеры звуков, дыхательные практики, интерактивные виджеты, кастомные таймеры), который закрывает требования модерации (Guideline 4.2 / 4.3) и даёт реальную ценность пользователям.
+> 3. **Поддержка персонального куратора**:
+>    Куратор отвечает на любые возникающие вопросы, помогает решать сложные баги, проводит ревью кода перед отправкой и сопровождает вас на всех этапах App Store Review.
+
+</details>
 
 ---
 
@@ -323,19 +370,17 @@ Before releasing the application under your own Apple Developer account, replace
 
 ---
 
-## 💡 Learn With Vibecode Academy
+## 💡 Ready to Build and Launch Your Own Apps?
 
-Want to build commercial apps like this, master system architecture, multimedia handling, custom animations, backend integration, and monetization?
+Transform this free starter project into your own profitable app business with **[Vibecode Mobile App Academy](https://dimvibecode.vercel.app)**:
 
-Join us at **[Vibecode Academy](https://dimvibecode.vercel.app)**!
+- 🧬 **100% Unique Codebase & Architecture**: Build distinct, original apps with AI vibe coding that avoid Guideline 4.3 clone flags.
+- 🛡️ **App Store Review Pass Guarantee**: Engineer unique differentiator features that satisfy Apple review guidelines on the first submission.
+- 👨‍🏫 **Personal Curator & Mentor Support**: Direct access to expert mobile engineers who review your code and resolve any development or submission blockers.
+- 💰 **Production Monetization**: Master in-app purchases and subscriptions with RevenueCat and StoreKit 2.
+- 🚀 **10x Velocity**: Go from initial idea to live App Store release in days, not months.
 
-What our students learn:
-- 🚀 Hands-on development of commercial iOS applications using Swift and SwiftUI.
-- 💰 Implementing in-app purchases and subscriptions (StoreKit 2 / RevenueCat).
-- 🎨 Modern mobile UI/UX engineering, fluid gestures, and micro-animations.
-- 📦 App Store guidelines, App Review pass strategies, and ASO optimization.
-
-👉 **Academy Website**: [https://dimvibecode.vercel.app](https://dimvibecode.vercel.app)
+👉 **Official Academy Website**: [https://dimvibecode.vercel.app](https://dimvibecode.vercel.app)
 
 ---
 
