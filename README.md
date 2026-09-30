@@ -43,6 +43,17 @@ While this repository provides a fully functional open-source base, **simply pub
 
 At **[Vibecode Mobile App Academy](https://dimvibecode.vercel.app)**, we teach you how to engineer and publish high-quality, commercially successful mobile applications with three decisive advantages:
 
+> ### 🎓 Key Learning Advantages of Vibecode Academy:
+>
+> 1. **🧬 100% Unique Code Structure & Content**:  
+>    Master prompt orchestration and AI coding workflows to build completely unique architectures, data schemas, and UI layouts that easily pass automated Apple code similarity scanners.
+> 2. **🛡️ Unique Feature Engineering for Smooth App Store Review**:  
+>    Design and integrate proprietary differentiator features (custom sound mixers, breathing exercises, interactive widgets, smart sleep timers) satisfying Apple Review Guidelines (4.2 & 4.3) and delivering real user value.
+> 3. **👨‍🏫 Dedicated Curator & Mentor Support**:  
+>    Get direct access to experienced mobile curators who answer questions, troubleshoot technical blockers, conduct pre-launch code reviews, and guide you through App Store approval.
+> 4. **⚡ 10x Mobile Vibe Coding Velocity**:  
+>    Ship native iOS & Android applications from concept to App Store launch in days, not months.
+
 ### 1. 🧬 Unique Code Structure & Content Generation
 - **No cookie-cutter cloning**: You master how to direct AI coding agents to refactor, restructure, and generate a **truly unique architectural codebase and content catalog**.
 - **Distinct binary footprint**: Custom data models, decoupled service boundaries, original UI design systems, and bespoke asset pipelines ensure that your application's Abstract Syntax Tree (AST) and structure are completely unique in the eyes of App Store automated checks.
@@ -64,22 +75,6 @@ At **[Vibecode Mobile App Academy](https://dimvibecode.vercel.app)**, we teach y
 
 ### 4. ⚡ High-Velocity Mobile Vibe Coding
 - Learn modern agentic engineering workflows: write concise architectural specifications, direct AI tools to generate bulletproof Swift/SwiftUI code, and ship polished iOS & Android apps in days instead of months.
-
-<details>
-<summary><b>🇷🇺 Преимущества обучения в Vibecode Academy (для русскоязычных учеников)</b></summary>
-
-> ### 🎓 Почему обучение в Академии эффективнее простого скачивания шаблонов?
-> 
-> Данный репозиторий — это бесплатная стартовая база. Однако прямая выгрузка шаблонного кода в App Store обычно ведет к отклонению по **Guideline 4.3 (Spam / Design Copycats)**. В [Vibecode Mobile App Academy](https://dimvibecode.vercel.app) мы обучаем полному циклу создания независимых коммерческих приложений:
->
-> 1. **Уникальный код по структуре и наполнению**:
->    Вы учитесь управлять AI-агентами так, чтобы генерировать персонализированную архитектуру, уникальные структуры данных и собственный UI, делая проект на 100% самобытным для автоматических сканеров Apple.
-> 2. **Уникальная фича для уверенного прохождения модерации App Store**:
->    Вы разрабатываете и встраиваете уникальный функционал (мультитрековые микшеры звуков, дыхательные практики, интерактивные виджеты, кастомные таймеры), который закрывает требования модерации (Guideline 4.2 / 4.3) и даёт реальную ценность пользователям.
-> 3. **Поддержка персонального куратора**:
->    Куратор отвечает на любые возникающие вопросы, помогает решать сложные баги, проводит ревью кода перед отправкой и сопровождает вас на всех этапах App Store Review.
-
-</details>
 
 ---
 
