@@ -337,7 +337,7 @@ Before releasing the application under your own Apple Developer account, replace
 #### 6. Bundle Identifier & Code Signing
 - **Location**: Xcode Project Navigator → Click root project `firecandlemer` → Target `firecandlemer` → **Signing & Capabilities**.
 - **Instructions**:
-  - Change **Bundle Identifier** from `com.mertkesser.firecandlemer` to your own identifier (e.g. `com.yourteam.fireplace`).
+  - Change **Bundle Identifier** (default: `com.vibecode.firecandlemer`) to your own unique identifier (e.g. `com.yourcompany.fireplace`).
   - Select your Apple Developer **Team** to enable automatic code signing and provisioning profiles.
 
 ---
