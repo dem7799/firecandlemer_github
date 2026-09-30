@@ -1,0 +1,272 @@
+[
+  {
+    "id": "cat_fire",
+    "title": "Fireplace",
+    "backgroundImageName": "cat_fire_bg",
+    "backgroundVideoName": null,
+    "videos": [
+      {
+        "previewImageName": "bg_1101",
+        "videoURL": "hd_fire1",
+        "free": true
+      },
+      {
+        "previewImageName": "bg_1102",
+        "videoURL": "hd_fire2"
+      },
+      {
+        "previewImageName": "bg_1103",
+        "videoURL": "hd_fire3"
+      },
+      {
+        "previewImageName": "bg_1104",
+        "videoURL": "hd_fire4"
+      },
+      {
+        "previewImageName": "bg_1105",
+        "videoURL": "hd_fire5"
+      },
+      {
+        "previewImageName": "bg_1106",
+        "videoURL": "hd_fire6"
+      },
+      {
+        "previewImageName": "bg_1107",
+        "videoURL": "hd_fire7"
+      },
+      {
+        "previewImageName": "bg_1108",
+        "videoURL": "hd_fire8"
+      },
+      {
+        "previewImageName": "bg_1109",
+        "videoURL": "hd_fire9"
+      },
+      {
+        "previewImageName": "bg_1110",
+        "videoURL": "hd_fire10"
+      },
+      {
+        "previewImageName": "bg_1111",
+        "videoURL": "hd_fire11"
+      },
+      {
+        "previewImageName": "bg_1112",
+        "videoURL": "hd_fire12"
+      }
+
+    ]
+  },
+  {
+    "id": "cat_candle",
+    "title": "Candle",
+    "backgroundImageName": "cat_candle_bg",
+    "backgroundVideoName": null,
+    "videos": [
+      {
+        "previewImageName": "bg_1201",
+        "videoURL": "hd_candle1",
+        "free": true
+      },
+      {
+        "previewImageName": "bg_1202",
+        "videoURL": "hd_candle2"
+      },
+      {
+        "previewImageName": "bg_1203",
+        "videoURL": "hd_candle3"
+      },
+      {
+        "previewImageName": "bg_1204",
+        "videoURL": "hd_candle4"
+      },
+      {
+        "previewImageName": "bg_1205",
+        "videoURL": "hd_candle5"
+      },
+      {
+        "previewImageName": "bg_1206",
+        "videoURL": "hd_candle6"
+      },
+      {
+        "previewImageName": "bg_1207",
+        "videoURL": "hd_candle7"
+      },
+      {
+        "previewImageName": "bg_1208",
+        "videoURL": "hd_candle8"
+      }
+    ]
+  },
+  {
+    "id": "cat_rain",
+    "title": "Rain",
+    "backgroundImageName": "cat_rain_bg",
+    "backgroundVideoName": null,
+    "videos": [
+      {
+        "previewImageName": "bg_1401",
+        "videoURL": "hd_rain1",
+        "free": true
+      },
+      {
+        "previewImageName": "bg_1402",
+        "videoURL": "hd_rain2"
+      },
+      {
+        "previewImageName": "bg_1403",
+        "videoURL": "hd_rain3"
+      },
+      {
+        "previewImageName": "bg_1404",
+        "videoURL": "hd_rain4"
+      },
+      {
+        "previewImageName": "bg_1405",
+        "videoURL": "hd_rain5"
+      },
+      {
+        "previewImageName": "bg_1406",
+        "videoURL": "hd_rain6"
+      },
+      {
+        "previewImageName": "bg_1407",
+        "videoURL": "hd_rain7"
+      },
+      {
+        "previewImageName": "bg_1408",
+        "videoURL": "hd_rain8"
+      },
+      {
+        "previewImageName": "bg_1409",
+        "videoURL": "hd_rain9"
+      },
+      {
+        "previewImageName": "bg_1410",
+        "videoURL": "hd_rain10"
+      }
+    ]
+  },
+  {
+    "id": "cat_aquarium",
+    "title": "Aquarium",
+    "backgroundImageName": "cat_aquarium_bg",
+    "backgroundVideoName": null,
+    "videos": [
+      {
+        "previewImageName": "bg_1301",
+        "videoURL": "hd_aqua1"
+      },
+      {
+        "previewImageName": "bg_1302",
+        "videoURL": "hd_aqua2"
+      },
+      {
+        "previewImageName": "bg_1303",
+        "videoURL": "hd_aqua3"
+      },
+      {
+        "previewImageName": "bg_1304",
+        "videoURL": "hd_aqua4"
+      },
+      {
+        "previewImageName": "bg_1305",
+        "videoURL": "hd_aqua5"
+      },
+      {
+        "previewImageName": "bg_1306",
+        "videoURL": "hd_aqua6"
+      },
+      {
+        "previewImageName": "bg_1307",
+        "videoURL": "hd_aqua7"
+      },
+      {
+        "previewImageName": "bg_1308",
+        "videoURL": "hd_aqua8"
+      }
+    ]
+  },
+  {
+    "id": "cat_nature",
+    "title": "Nature",
+    "backgroundImageName": "cat_nature_bg",
+    "backgroundVideoName": null,
+    "videos": [
+      {
+        "previewImageName": "bg_1501",
+        "videoURL": "hd_nature1",
+        "free": true
+      },
+      {
+        "previewImageName": "bg_1502",
+        "videoURL": "hd_nature2"
+      },
+      {
+        "previewImageName": "bg_1503",
+        "videoURL": "hd_nature3"
+      },
+      {
+        "previewImageName": "bg_1504",
+        "videoURL": "hd_nature4"
+      },
+      {
+        "previewImageName": "bg_1505",
+        "videoURL": "hd_nature5"
+      },
+      {
+        "previewImageName": "bg_1506",
+        "videoURL": "hd_nature6"
+      },
+      {
+        "previewImageName": "bg_1507",
+        "videoURL": "hd_nature7"
+      },
+      {
+        "previewImageName": "bg_1508",
+        "videoURL": "hd_nature8"
+      }
+    ]
+  },
+  {
+    "id": "cat_noise",
+    "title": "White Noise",
+    "backgroundImageName": "cat_noise_bg",
+    "backgroundVideoName": null,
+    "videos": [
+      {
+        "previewImageName": "bg_1601",
+        "videoURL": "hd_noise1"
+      },
+      {
+        "previewImageName": "bg_1602",
+        "videoURL": "hd_noise2",
+        "free": true
+      },
+      {
+        "previewImageName": "bg_1603",
+        "videoURL": "hd_noise3"
+      },
+      {
+        "previewImageName": "bg_1604",
+        "videoURL": "hd_noise4"
+      },
+      {
+        "previewImageName": "bg_1605",
+        "videoURL": "hd_noise5"
+      },
+      {
+        "previewImageName": "bg_1606",
+        "videoURL": "hd_noise6"
+      },
+      {
+        "previewImageName": "bg_1607",
+        "videoURL": "hd_noise7"
+      },
+      {
+        "previewImageName": "bg_1608",
+        "videoURL": "hd_noise8"
+      }
+    ]
+  }
+]

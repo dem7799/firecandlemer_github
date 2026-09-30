@@ -1,0 +1,59 @@
+PODS:
+  - AppsFlyerFramework (6.17.0):
+    - AppsFlyerFramework/Main (= 6.17.0)
+  - AppsFlyerFramework/Main (6.17.0)
+  - OneSignal/OneSignal (5.2.14):
+    - OneSignal/OneSignalCore
+    - OneSignal/OneSignalExtension
+    - OneSignal/OneSignalLiveActivities
+    - OneSignal/OneSignalNotifications
+    - OneSignal/OneSignalOSCore
+    - OneSignal/OneSignalOutcomes
+    - OneSignal/OneSignalUser
+  - OneSignal/OneSignalCore (5.2.14)
+  - OneSignal/OneSignalExtension (5.2.14):
+    - OneSignal/OneSignalCore
+    - OneSignal/OneSignalOutcomes
+  - OneSignal/OneSignalLiveActivities (5.2.14):
+    - OneSignal/OneSignalCore
+    - OneSignal/OneSignalOSCore
+    - OneSignal/OneSignalUser
+  - OneSignal/OneSignalNotifications (5.2.14):
+    - OneSignal/OneSignalCore
+    - OneSignal/OneSignalExtension
+    - OneSignal/OneSignalOutcomes
+  - OneSignal/OneSignalOSCore (5.2.14):
+    - OneSignal/OneSignalCore
+  - OneSignal/OneSignalOutcomes (5.2.14):
+    - OneSignal/OneSignalCore
+  - OneSignal/OneSignalUser (5.2.14):
+    - OneSignal/OneSignalCore
+    - OneSignal/OneSignalNotifications
+    - OneSignal/OneSignalOSCore
+    - OneSignal/OneSignalOutcomes
+  - RevenueCat (5.90.2)
+  - RevenueCatUI (5.90.2):
+    - RevenueCat (= 5.90.2)
+
+DEPENDENCIES:
+  - AppsFlyerFramework
+  - OneSignal/OneSignal (< 6.0, >= 5.2.9)
+  - RevenueCat
+  - RevenueCatUI
+
+SPEC REPOS:
+  trunk:
+    - AppsFlyerFramework
+    - OneSignal
+    - RevenueCat
+    - RevenueCatUI
+
+SPEC CHECKSUMS:
+  AppsFlyerFramework: 34cef9f9653f4fd01c27d4d87784425b9271f82f
+  OneSignal: 6ff272c3d1775fb7eec3a2ffed9dc7e01963aacc
+  RevenueCat: c44e15b3ee88506da1fdf537c62a6c239cc41b21
+  RevenueCatUI: 0a1f31996e19f7905ea3175c11b4732b3908837b
+
+PODFILE CHECKSUM: a499b14dfab4eb8a88316a00ccf54297b906cbe3
+
+COCOAPODS: 1.16.2
