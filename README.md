@@ -35,6 +35,10 @@ It transforms the device into an ambient nightlight, virtual fireplace, or medit
 
 This repository serves as a **production-ready educational foundation** demonstrating how to design a modern iOS app with paid subscriptions, offline media caching, hardware video looping, and marketing attribution.
 
+> 🎬 **Video & Audio Files — Not Included in This Repository**  
+> The 54 video scenes and audio tracks referenced by this codebase are **not part of the free open-source release**. These media assets are exclusively available to enrolled students of **[Vibecode Mobile App Academy](https://dimvibecode.vercel.app)**.  
+> Academy students also receive **step-by-step instructions on how to generate and prepare their own unique video and audio assets** using AI generation tools — ensuring every published app has 100% original, royalty-free content.
+
 ---
 
 ## 🚀 Vibecode Mobile App Academy — The Learning Advantage
@@ -319,15 +323,25 @@ Before releasing the application under your own Apple Developer account, replace
 
   | Category | Expected Video Files on Your External Storage | Total Files |
   | :--- | :--- | :---: |
-  | **Fireplace** | `hd_fire1.mp4`, `hd_fire2.mp4`, `hd_fire3.mp4`, `hd_fire4.mp4`, `hd_fire5.mp4`, `hd_fire6.mp4`, `hd_fire7.mp4`, `hd_fire8.mp4`, `hd_fire9.mp4`, `hd_fire10.mp4`, `hd_fire11.mp4`, `hd_fire12.mp4` | 12 |
-  | **Candle** | `hd_candle1.mp4`, `hd_candle2.mp4`, `hd_candle3.mp4`, `hd_candle4.mp4`, `hd_candle5.mp4`, `hd_candle6.mp4`, `hd_candle7.mp4`, `hd_candle8.mp4` | 8 |
-  | **Rain** | `hd_rain1.mp4`, `hd_rain2.mp4`, `hd_rain3.mp4`, `hd_rain4.mp4`, `hd_rain5.mp4`, `hd_rain6.mp4`, `hd_rain7.mp4`, `hd_rain8.mp4`, `hd_rain9.mp4`, `hd_rain10.mp4` | 10 |
-  | **Aquarium** | `hd_aqua1.mp4`, `hd_aqua2.mp4`, `hd_aqua3.mp4`, `hd_aqua4.mp4`, `hd_aqua5.mp4`, `hd_aqua6.mp4`, `hd_aqua7.mp4`, `hd_aqua8.mp4` | 8 |
-  | **Nature** | `hd_nature1.mp4`, `hd_nature2.mp4`, `hd_nature3.mp4`, `hd_nature4.mp4`, `hd_nature5.mp4`, `hd_nature6.mp4`, `hd_nature7.mp4`, `hd_nature8.mp4` | 8 |
-  | **White Noise** | `hd_noise1.mp4`, `hd_noise2.mp4`, `hd_noise3.mp4`, `hd_noise4.mp4`, `hd_noise5.mp4`, `hd_noise6.mp4`, `hd_noise7.mp4`, `hd_noise8.mp4` | 8 |
+  | **Fireplace** | `hd_fire1.mp4` … `hd_fire12.mp4` | 12 |
+  | **Candle** | `hd_candle1.mp4` … `hd_candle8.mp4` | 8 |
+  | **Rain** | `hd_rain1.mp4` … `hd_rain10.mp4` | 10 |
+  | **Aquarium** | `hd_aqua1.mp4` … `hd_aqua8.mp4` | 8 |
+  | **Nature** | `hd_nature1.mp4` … `hd_nature8.mp4` | 8 |
+  | **White Noise** | `hd_noise1.mp4` … `hd_noise8.mp4` | 8 |
   | **Total** | | **54 files** |
 
   *Supported cloud providers: Any public HTTP/HTTPS endpoint or S3-compatible bucket (Cloudflare R2, AWS S3, DigitalOcean Spaces, BunnyCDN, Yandex Cloud, Google Cloud Storage, Supabase Storage).*
+
+> 🎬 **Video & Audio Files — Academy Students Only**
+>
+> **The actual `.mp4` video and audio files are not included in this free repository.**
+>
+> Enrolled students of **[Vibecode Mobile App Academy](https://dimvibecode.vercel.app)** receive:
+> - ✅ Access to the full library of 54 ready-to-use HD video scenes and ambient audio tracks.
+> - ✅ A detailed **step-by-step guide on generating your own unique video and audio content** using AI generation tools (Sora, Runway, ElevenLabs, and others) — so your published app contains 100% original, royalty-free media that is completely unique to you.
+>
+> 👉 **[Join Vibecode Mobile App Academy](https://dimvibecode.vercel.app)** to get full media access and the asset generation guide.
 
 #### 6. Bundle Identifier & Code Signing
 - **Location**: Xcode Project Navigator → Click root project `firecandlemer` → Target `firecandlemer` → **Signing & Capabilities**.
